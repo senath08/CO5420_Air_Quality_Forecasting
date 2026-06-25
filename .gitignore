@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Ignore the processed and raw data
+*.csv
+*.xlsx
+
+# Ignore the neural models
+*.h5
+*.keras
+*.pt 
