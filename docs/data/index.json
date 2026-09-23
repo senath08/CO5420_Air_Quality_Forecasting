@@ -1,0 +1,56 @@
+{
+    "organization": "cepdnaclk",
+    "repository": "https://github.com/cepdnaclk/CO5420_Air_Quality_Forecasting",
+    "projectPage": "https://cepdnaclk.github.io/CO5420_Air_Quality_Forecasting/",
+    "title": "Air Quality Forecasting",
+    "description": "Predicting next-hour PM2.5 concentration and classifying air quality from pollutant and meteorological measurements.",
+    "team": [
+        {
+            "name": "H.M.K.I.Herath",
+            "email": "e23127@eng.pdn.ac.lk",
+            "eNumber": "E/23/127",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e23/127/"
+        },
+        {
+            "name": "M.A.S.Dulsara",
+            "email": "e23089@eng.pdn.ac.lk",
+            "eNumber": "E/23/089",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e23/089/"
+        },
+        {
+            "name": "P.H.S.Gunawardana",
+            "email": "e23122@eng.pdn.ac.lk",
+            "eNumber": "E/23/122",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e23/122/"
+        },
+        {
+            "name": "R.K.Kulasooriya",
+            "email": "e23182@eng.pdn.ac.lk",
+            "eNumber": "E/23/182",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e23/182/"
+        },
+        {
+            "name": "S.V.N.senarathne",
+            "email": "e23362@eng.pdn.ac.lk",
+            "eNumber": "E/23/362",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e23/362/"
+        }
+    ],
+    "supervisors": [
+        {
+            "name": "Dr. Supervisor 1",
+            "email": "email@eng.pdn.ac.lk"
+        },
+        {
+            "name": "Supervisor 2",
+            "email": "email@eng.pdn.ac.lk"
+        }
+    ],
+    "tags": [
+        "Web",
+        "Software Systems",
+        "CO5420"
+    ],
+    "image": "cover_page.jpg",
+    "thumbnail": "thumbnail.jpg"
+}

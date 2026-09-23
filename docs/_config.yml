@@ -1,0 +1,7 @@
+title: Air Quality Forecasting
+description: CO5420 project by the Department of Computer Engineering, University of Peradeniya
+url: https://cepdnaclk.github.io
+baseurl: /CO5420_Air_Quality_Forecasting
+markdown: kramdown
+exclude:
+  - README.md
